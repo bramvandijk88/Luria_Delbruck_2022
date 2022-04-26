@@ -20,10 +20,10 @@ You may wonder what the point is of simulating an experiment, especially *after*
    * Building your system from the bottom up requires no prior hypothesis
    * Investigate emergent properties (what complex behaviour emerges from the bottom-up rules)
    * May generate novel hypotheses that can be experimentally verified
-3. You want to investigate further, but it's expensive and/or experimentally infeasible
-   * Track slightly beneficial fitness effects 
-   * Redistributing DNA barcodes every day 
-   * Repeat 1 million experiments 
+3. You want to investigate further, but it's expensive and/or experimentally unfeasible
+   * Track slightly beneficial fitness effects
+   * Redistributing DNA barcodes after coalescence
+   * Repeat 1 million experiments
    * Investigate long-term evolution
 
 The Luria-Delbrück experiment has a clear hypothesis: repeatedly growing populations in non-selective media will generate a highly variable number of mutants. The reason for this is that mutations that occur early in the growth phase will become much more prevalant than mutations that occur later (IMAGE FOR THIS!??). From this experiment, we can infer that mutations are random (if they weren't, it makes no sense to discuss mutants that arose early or late!). Thus, we will use a simulation to confirm that repeated growth-cycles will yield a highly variable number of mutant colonies **only if mutations are random**. 

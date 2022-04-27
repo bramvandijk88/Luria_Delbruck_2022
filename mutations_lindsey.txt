@@ -1,0 +1,14 @@
+Treatment	Population Nuc_pos Anc_base	Mut_base
+Sudden 477 1714 A T
+Sudden 497 1546 G T
+Sudden 504 1592 C A
+Sudden 513 1546 G T
+Sudden 582 1546 G T
+Sudden 593 1592 C T
+Sudden 742 1592 C T
+Sudden 762 1592 C A
+Sudden 767 1714 A T
+Sudden 878 1592 C A
+Sudden 1223 1592 C T
+Sudden 1236 436 G T
+Sudden 1334 436 G T

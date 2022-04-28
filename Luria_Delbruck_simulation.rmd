@@ -69,7 +69,7 @@ plot_norm <- exp_growth %>%
   ggtitle("Exponential growth")
 
 plot_ylog <- exp_growth %>% 
-  ggplot(aes(x=Time,y=log(Cellcount))) +
+  ggplot(aes(x=Time,y=log10(Cellcount))) +
   geom_line(col="navy",size=1.5) +
   ggtitle("Exponential growth")
 

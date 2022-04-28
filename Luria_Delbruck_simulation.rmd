@@ -1,8 +1,8 @@
 ---
 title: "Simulating the Luria Delbrück experiment"
 output:
-  html_document: default
-  pdf_document: default
+html_document: default
+pdf_document: default
 ---
 
 # Introduction
